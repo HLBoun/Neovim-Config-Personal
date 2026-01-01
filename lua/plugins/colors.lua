@@ -6,7 +6,7 @@ return {
       "morhetz/gruvbox",
       config = function()
 	    vim.cmd.colorscheme "gruvbox"
-	    enable_transparency()
+--	    enable_transparency()
       end
       },
       {
