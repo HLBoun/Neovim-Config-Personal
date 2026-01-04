@@ -18,4 +18,4 @@ vim.opt.incsearch = true
 vim.opt.clipboard = "unnamedplus"
 
 -- Use powershell instead of cmd when using :term
-vim.opt.shell = "pwsh"
+vim.opt.shell = "C:/Windows/System32/WindowsPowerShell/v1.0/pwsh.exe"
