@@ -2,16 +2,16 @@
 -- Basic settings
 vim.opt.number = true
 vim.opt.cursorline = true
-vim.opt.relativenumber = false
+vim.opt.relativenumber = true
 vim.opt.wrap = true
 vim.opt.scrolloff = 6
 vim.opt.sidescrolloff = 6
 
 -- Indentation 
-vim.opt.shiftwidth = 6
+vim.opt.shiftwidth = 4
 
 -- Search settings
-vim.opt.ignorecase = false
+vim.opt.ignorecase = true
 vim.opt.incsearch = true
 
 -- Yank controls
